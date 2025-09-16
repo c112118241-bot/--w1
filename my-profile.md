@@ -12,4 +12,12 @@
 [Google](https://www.google.com/?hl=zh_TW)
 ![NKUST](nkust.png)
 
->
+>人被殺就會死
+
+ | 就讀學校 | 性別 |
+ |:---:|:---|
+ | 高學科技大學 | 男 |
+
+```python
+ print("Hello, Markdown!")
+```
